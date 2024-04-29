@@ -64,7 +64,6 @@ classTotalNumber = 260
 
 T1Start = 2019
 T2Start = 2022
-T2End = 2024
 
 
 class CustomProvider(BaseProvider):
